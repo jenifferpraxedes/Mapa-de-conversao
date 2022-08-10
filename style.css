@@ -1,0 +1,43 @@
+html {
+    width: 100%;
+}
+
+body {
+    font-family: Verdana, Tahoma, sans-serif;
+    margin: 21% 0;
+}
+
+.th {
+    background-color: darksalmon;
+    height: 25px;
+}
+
+.tr {
+    height: 33px;
+}
+
+#one {
+    width: 70%;
+}
+
+#three, #two {
+    width: 16%;
+}
+
+#name, #letters {
+    width: 33%;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
+.td, tr {
+    text-align: center;
+}
